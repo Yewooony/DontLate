@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:enabled="true"
+        android:icon="@drawable/house"
+        android:title="아이템1"/>
+
+    <item
+        android:id="@+id/menu_social"
+        android:enabled="true"
+        android:icon="@drawable/social"
+        android:title="아이템2"/>
+
+    <item
+        android:id="@+id/menu_mypage"
+        android:enabled="true"
+        android:icon="@drawable/mypage"
+        android:title="아이템2"/>
+</menu>

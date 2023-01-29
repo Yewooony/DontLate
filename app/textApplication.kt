@@ -1,0 +1,2 @@
+class textApplication external Application {
+}

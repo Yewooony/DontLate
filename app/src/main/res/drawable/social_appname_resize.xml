@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/social_logo2x"
+        android:width="184dp"
+        android:height="56dp" >
+    </item>
+</layer-list>
